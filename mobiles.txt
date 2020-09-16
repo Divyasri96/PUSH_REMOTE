@@ -1,4 +1,2 @@
-NOKIA
-OPPO
-SAMSUNG
+apple
 
